@@ -29,6 +29,7 @@
 	{ "pkt",   0,  300, "Asia/Karachi" },
 	{ "ist",   0,  330, "Asia/Kolkata" },
 	{ "npt",   0,  345, "Asia/Katmandu" },
+	{ "omsk",  0,  360, "Asia/Omsk" },
 	{ "yekt",  1,  360, "Asia/Yekaterinburg" },
 	{ "novst", 1,  420, "Asia/Novosibirsk" },
 	{ "krat",  0,  420, "Asia/Krasnoyarsk" },
